@@ -1,0 +1,2 @@
+# staticPortfolio
+temporary website
